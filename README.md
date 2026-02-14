@@ -1,105 +1,107 @@
-# David Ouma | Backend Developer
+# David Ouma
 
-Building scalable APIs and real-time systems that solve real-world problems.
+**Backend Developer | Full-Stack Engineer | API Specialist**
+
+Building scalable backend systems and RESTful APIs that power modern applications.
 
 ---
 
 ## About Me
 
-I'm a **Backend Developer** specializing in **RESTful API development**, **database architecture**, and **real-time communication systems**. Currently pursuing BSc. Information Technology at Jomo Kenyatta University of Agriculture and Technology, I combine academic knowledge with hands-on project experience to build production-ready applications.
+I'm a Backend Developer with hands-on experience in building RESTful APIs, managing databases, and architecting real-time communication systems. I specialize in creating production-ready applications with clean, maintainable code and robust error handling.
 
-I'm passionate about **sustainable technology** and **impactful innovation** — from wildlife protection systems to financial inclusion platforms. I thrive in collaborative environments and love tackling complex backend challenges.
-
----
-
-## Tech Stack
-
-**Backend & APIs**  
-`Node.js` `Express.js` `FastAPI` `RESTful APIs` `Socket.IO` `WebSockets`
-
-**Databases**  
-`MongoDB` `PostgreSQL` `SQL` `Database Design` `Data Modeling`
-
-**Frontend** (Full-Stack Capability)  
-`React.js` `JavaScript (ES6+)` `HTML5` `CSS3`
-
-**Tools & DevOps**  
-`Git` `GitHub` `Postman` `Docker` `API Testing` `CI/CD`
-
-**Currently Learning**  
-`FastAPI` `PostgreSQL` `Redis` `RabbitMQ` `Microservices Architecture`
+Currently pursuing BSc. Information Technology at Jomo Kenyatta University of Agriculture and Technology, I combine academic knowledge with practical project experience. I'm passionate about problem-solving, continuous learning, and building technology solutions that create real-world impact.
 
 ---
 
-## Featured Projects
+## Technical Skills
 
-### GuardianCall - Real-Time Wildlife Protection System
-**Backend Architect | Hackathon Project**
+**Backend Development**  
+Node.js • Express.js • FastAPI • RESTful API Design • WebSocket/Socket.IO • Microservices
 
-Real-time acoustic alert system for anti-poaching operations using distributed sensor networks.
+**Database Management**  
+MongoDB • PostgreSQL • SQL • Database Design • Data Modeling • Query Optimization
 
-- Built RESTful API with Node.js/Express.js for sensor data processing
-- Implemented WebSocket communication for sub-2-second alert delivery
-- Developed geospatial data processing algorithms for GPS triangulation
-- Designed scalable architecture handling multiple concurrent sensor feeds
+**Frontend Development**  
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Responsive Design
 
-**Tech:** `Node.js` `Express.js` `Socket.IO` `MongoDB` `Geospatial Data`
+**DevOps & Tools**  
+Git • GitHub • Docker • Postman • API Testing • CI/CD • Version Control
 
----
+**Security & Authentication**  
+JWT • OAuth • Role-Based Access Control • Session Management
 
-### Full-Stack Donation Platform
-**Backend Developer**
-
-Production-ready donation management system with secure payment processing.
-
-- Architected RESTful API handling authentication, donations, and transactions
-- Designed optimized MongoDB schema for transaction integrity
-- Integrated payment gateway APIs with webhook management
-- Implemented JWT authentication with role-based access control
-
-**Tech:** `Node.js` `Express.js` `MongoDB` `React.js` `Payment APIs`
+**Additional Expertise**  
+Real-Time Systems • Payment Gateway Integration • Geospatial Data Processing • API Documentation
 
 ---
 
-### News Aggregator Application
-**API Integration Specialist**
+## Currently Learning
 
-Dynamic news platform consuming external REST APIs with efficient caching.
+Expanding my expertise in modern backend technologies and cloud infrastructure:
 
-- Built scalable system with asynchronous data fetching
-- Implemented robust error handling and retry logic
-- Optimized API calls for performance and user experience
-
-**Tech:** `React.js` `REST APIs` `JavaScript` `Async/Await`
+- FastAPI framework for high-performance Python APIs
+- PostgreSQL advanced features and optimization
+- Redis caching strategies
+- RabbitMQ message queuing systems
+- Docker containerization and Kubernetes
+- AWS/Azure cloud services
 
 ---
 
-## What I'm Working On
+## What I Bring
 
-- Building FastAPI projects to expand Python backend expertise
-- Learning PostgreSQL and advanced SQL query optimization
-- Exploring Docker containerization and microservices patterns
-- Contributing to open-source projects focused on social impact
+**Problem Solver** - Analytical approach to breaking down complex challenges into scalable solutions
+
+**Fast Learner** - Quick to adapt to new technologies, frameworks, and development environments
+
+**Collaborative** - Experienced working in team settings, hackathons, and cross-functional projects
+
+**Quality-Focused** - Committed to writing clean, documented, and testable code following best practices
+
+**Impact-Driven** - Building technology that solves real problems and creates meaningful value
+
+---
+
+## Professional Focus
+
+I'm focused on backend development roles where I can:
+
+- Design and build scalable RESTful APIs
+- Architect database solutions for complex applications
+- Implement real-time communication systems
+- Optimize backend performance and reliability
+- Work with modern tech stacks in agile environments
+- Contribute to meaningful projects with social or environmental impact
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oumadavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="David's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumadavid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumadavid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## Let's Connect
 
-I'm actively seeking **Junior Backend Developer** opportunities where I can contribute to meaningful projects while growing my technical skills.
+**Portfolio:** [oumadavidwebsite.netlify.app](https://oumadavidwebsite.netlify.app)
 
-**Portfolio:** [oumadavidwebsite.netlify.app](https://oumadavidwebsite.netlify.app)  
-**LinkedIn:** [linkedin.com/in/davidouma-a036372b4](https://www.linkedin.com/in/oumadavid)  
-**Email:** owagedavid2177@gmail.com  
+**LinkedIn:** [linkedin.com/in/davidouma-a036372b4](https://www.linkedin.com/in/oumadavid)
+
+**Email:** owagedavid2177@gmail.com
+
 **Location:** Nairobi, Kenya
 
 ---
 
-## GitHub Stats
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oumadavid&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oumadavid&layout=compact&theme=radical)
-
----
-
-**Open to:** Full-time positions, contract work, remote opportunities, and collaborative projects in backend development, API design, and sustainable tech solutions.
+*Open to full-time positions, contract opportunities, and remote work in backend development, API engineering, and full-stack roles.*
