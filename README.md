@@ -87,7 +87,7 @@ I focus on:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=oumadavid&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?  user=oumadavid&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -99,7 +99,7 @@ I focus on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oumadavid&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?  username=oumadavid&theme=tokyo-night&hide_border=true" />
 
 </div>
 
