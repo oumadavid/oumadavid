@@ -79,7 +79,7 @@ I focus on:
 
 <img height="170em" src="https://github-readme-stats-dy43hpdd1-daviddage438-gmailcoms-projects.vercel.app/api?username=oumadavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170em" src="github-readme-stats-dy43hpdd1-daviddage438-gmailcoms-projects.vercel.app/api/top-langs/?username=oumadavid&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="github-readme-stats-dy43hpdd1-daviddage438-gmailcoms-projects.vercel.app/api/top-langs/?user=oumadavid&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -87,7 +87,7 @@ I focus on:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?  user=oumadavid&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=oumadavid&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -99,7 +99,7 @@ I focus on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?  username=oumadavid&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oumadavid&theme=tokyo-night&hide_border=true" />
 
 </div>
 
